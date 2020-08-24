@@ -14,17 +14,17 @@ In Challenge 4 the task was to create a quiz with the following requirements:
 
 ## Screenshots
 Initial Page
-![application landing page](assets\images\Quiz Game Screenshot 1.png)
+![Application landing page](assets\images\Quiz Game Screenshot 1.png)
 
 Questions (Correct Answer)
-![application landing page](assets\images\Quiz Game Screenshot 2.png)
+![Application landing page](assets\images\Quiz Game Screenshot 2.png)
 
 Questions (Wrong Answer)
-![applicatoin landing page](assets\images\Quiz Game Screenshot 3.png)
+![Applicatoin landing page](assets\images\Quiz Game Screenshot 3.png)
 
 End Game
-![application landing page](assets\images\Quiz Game Screenshot 4.png)
+![Application landing page](assets\images\Quiz Game Screenshot 4.png)
 
 High Scores
-![application landing page](assets\images\Highscore Screenshot.png)
+![Application landing page](assets\images\Highscore Screenshot.png)
 
