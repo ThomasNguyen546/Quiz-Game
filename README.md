@@ -28,3 +28,5 @@ End Game
 High Scores
 ![](/assets/images/HighscoreScreenshot.png)
 
+## URL
+https://thomasnguyen546.github.io/Quiz-Game/
